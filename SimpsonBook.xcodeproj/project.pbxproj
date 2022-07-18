@@ -16,6 +16,8 @@
 		631ACECE285C4DD30034CA6C /* SimpsonBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631ACECD285C4DD30034CA6C /* SimpsonBookTests.swift */; };
 		631ACED8285C4DD30034CA6C /* SimpsonBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631ACED7285C4DD30034CA6C /* SimpsonBookUITests.swift */; };
 		631ACEDA285C4DD30034CA6C /* SimpsonBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631ACED9285C4DD30034CA6C /* SimpsonBookUITestsLaunchTests.swift */; };
+		631ACEE7285C4FE30034CA6C /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631ACEE6285C4FE30034CA6C /* secondViewController.swift */; };
+		631ACEE9285C5E1A0034CA6C /* simpsonClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631ACEE8285C5E1A0034CA6C /* simpsonClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		631ACED3285C4DD30034CA6C /* SimpsonBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpsonBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		631ACED7285C4DD30034CA6C /* SimpsonBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpsonBookUITests.swift; sourceTree = "<group>"; };
 		631ACED9285C4DD30034CA6C /* SimpsonBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpsonBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		631ACEE6285C4FE30034CA6C /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		631ACEE8285C5E1A0034CA6C /* simpsonClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simpsonClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				631ACEB6285C4DCD0034CA6C /* AppDelegate.swift */,
 				631ACEB8285C4DCD0034CA6C /* SceneDelegate.swift */,
 				631ACEBA285C4DCD0034CA6C /* ViewController.swift */,
+				631ACEE6285C4FE30034CA6C /* secondViewController.swift */,
+				631ACEE8285C5E1A0034CA6C /* simpsonClass.swift */,
 				631ACEBC285C4DCD0034CA6C /* Main.storyboard */,
 				631ACEBF285C4DD30034CA6C /* Assets.xcassets */,
 				631ACEC1285C4DD30034CA6C /* LaunchScreen.storyboard */,
@@ -258,6 +264,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				631ACEE9285C5E1A0034CA6C /* simpsonClass.swift in Sources */,
+				631ACEE7285C4FE30034CA6C /* secondViewController.swift in Sources */,
 				631ACEBB285C4DCD0034CA6C /* ViewController.swift in Sources */,
 				631ACEB7285C4DCD0034CA6C /* AppDelegate.swift in Sources */,
 				631ACEB9285C4DCD0034CA6C /* SceneDelegate.swift in Sources */,
